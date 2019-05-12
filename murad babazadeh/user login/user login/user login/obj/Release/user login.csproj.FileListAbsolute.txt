@@ -1,0 +1,10 @@
+C:\Users\Ekber\Desktop\C#\user login\user login\user login\bin\Release\user login.exe.config
+C:\Users\Ekber\Desktop\C#\user login\user login\user login\bin\Release\user login.exe
+C:\Users\Ekber\Desktop\C#\user login\user login\user login\bin\Release\user login.pdb
+C:\Users\Ekber\Desktop\C#\user login\user login\user login\obj\Release\user_login.Properties.Resources.resources
+C:\Users\Ekber\Desktop\C#\user login\user login\user login\obj\Release\user login.csproj.GenerateResource.cache
+C:\Users\Ekber\Desktop\C#\user login\user login\user login\obj\Release\user login.csproj.CoreCompileInputs.cache
+C:\Users\Ekber\Desktop\C#\user login\user login\user login\obj\Release\user login.exe
+C:\Users\Ekber\Desktop\C#\user login\user login\user login\obj\Release\user login.pdb
+C:\Users\Ekber\Desktop\C#\user login\user login\user login\obj\Release\user_login.Form1.resources
+C:\Users\Ekber\Desktop\C#\user login\user login\user login\obj\Release\user_login.Register.resources

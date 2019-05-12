@@ -1,0 +1,12 @@
+C:\Users\Ekber\Desktop\C#\user login\user login\user login\bin\Debug\user login.exe.config
+C:\Users\Ekber\Desktop\C#\user login\user login\user login\bin\Debug\user login.exe
+C:\Users\Ekber\Desktop\C#\user login\user login\user login\bin\Debug\user login.pdb
+C:\Users\Ekber\Desktop\C#\user login\user login\user login\obj\Debug\user login.csprojAssemblyReference.cache
+C:\Users\Ekber\Desktop\C#\user login\user login\user login\obj\Debug\user_login.Properties.Resources.resources
+C:\Users\Ekber\Desktop\C#\user login\user login\user login\obj\Debug\user login.csproj.GenerateResource.cache
+C:\Users\Ekber\Desktop\C#\user login\user login\user login\obj\Debug\user login.csproj.CoreCompileInputs.cache
+C:\Users\Ekber\Desktop\C#\user login\user login\user login\obj\Debug\user login.exe
+C:\Users\Ekber\Desktop\C#\user login\user login\user login\obj\Debug\user login.pdb
+C:\Users\Ekber\Desktop\C#\user login\user login\user login\obj\Debug\user_login.Form1.resources
+C:\Users\Ekber\Desktop\C#\user login\user login\user login\obj\Debug\user_login.Register.resources
+C:\Users\Ekber\Desktop\C#\user login\user login\user login\obj\Debug\user_login.Product.resources
